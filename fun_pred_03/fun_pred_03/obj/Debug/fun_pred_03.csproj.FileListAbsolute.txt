@@ -1,0 +1,6 @@
+C:\Users\apilati\source\repos\fun_pred_03\fun_pred_03\bin\Debug\fun_pred_03.exe.config
+C:\Users\apilati\source\repos\fun_pred_03\fun_pred_03\bin\Debug\fun_pred_03.exe
+C:\Users\apilati\source\repos\fun_pred_03\fun_pred_03\bin\Debug\fun_pred_03.pdb
+C:\Users\apilati\source\repos\fun_pred_03\fun_pred_03\obj\Debug\fun_pred_03.csprojAssemblyReference.cache
+C:\Users\apilati\source\repos\fun_pred_03\fun_pred_03\obj\Debug\fun_pred_03.exe
+C:\Users\apilati\source\repos\fun_pred_03\fun_pred_03\obj\Debug\fun_pred_03.pdb
